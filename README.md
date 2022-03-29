@@ -1,2 +1,2 @@
-# BootstrapMovies
-Movies Web site Made in Bootstrap 
+# Movies Search
+Movies Website to search for movies, made in Bootstrap.
